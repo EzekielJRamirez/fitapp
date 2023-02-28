@@ -2,6 +2,10 @@
 
 my fitness app...
 
+# links
+
+- https://www.youtube.com/watch?v=1xipg02Wu8s
+
 # fitapp
 
 A new Flutter project.
